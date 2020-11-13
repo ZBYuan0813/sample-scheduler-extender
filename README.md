@@ -1,4 +1,5 @@
 # sample-scheduler-extender
+Fix go mod error and copy from https://github.com/cnych/sample-scheduler-extender
 
 A sample to showcase how to create a k8s scheduler extender.
 
